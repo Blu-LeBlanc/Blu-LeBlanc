@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Blu-LeBlanc
+- 👀 I’m working on projects to apply data analytics techniques to real-world scenarios
+- 💞️ I’m an aspiring data analyst looking for an entry-level/internship role
+- 📫 Reach out to me at bluleblanc@gmail.com or www.linkedin.com/in/blu-leblanc 
+- ⚡ Fun fact: ...
