@@ -17,8 +17,8 @@ Currently seeking opportunities in Data Science / Machine Learning.
 
 ## 📌 Featured Projects
 
-- 🧠 [Deep Learning Final Project](link-to-repo) – Built and evaluated CNN/LSTM models to tackle [problem]; achieved [main result or metric].  
-- 📊 [DTSA 5510 Project](link-to-repo) – Full ML pipeline: data wrangling, feature engineering, model selection, and performance evaluation.  
+- 🧠 [Deep Learning Final Project](https://github.com/Blu-LeBlanc/E-commerce_Clustering_Analysis) – Built and evaluated CNN/LSTM models to tackle [problem]; achieved [main result or metric].  
+- 📊 [E-Commerce Clustering Unsupervised Learning](https://github.com/Blu-LeBlanc/E-commerce_Clustering_Analysis) – Full ML pipeline: data wrangling, feature engineering, model selection, and performance evaluation.  
 - 🦠 [COVID-19 Data Analysis](link-to-repo) – Exploratory analysis and visualization of COVID-19 trends, highlighting key insights with data storytelling.  
 
 ---
