@@ -17,7 +17,7 @@ Currently seeking opportunities in Data Science / Machine Learning.
 
 ## 📌 Featured Projects
 
-- 🧠 [Hate Speech Detection - RNN](https://github.com/Blu-LeBlanc/RNN_Hate_Speech) – Built and evaluated CNN/LSTM models to tackle [problem]; achieved [main result or metric].  
+- 🧠 [Hate Speech Detection - RNN](https://github.com/Blu-LeBlanc/RNN_Hate_Speech) – Built and evaluated CNN/LSTM models to perform binary classification on social media posts; achieved hate speech detection model with 90% success.  
 - 📊 [E-Commerce Clustering Unsupervised Learning](https://github.com/Blu-LeBlanc/E-commerce_Clustering_Analysis) – Full ML pipeline: data wrangling, feature engineering, model selection, and performance evaluation.  
 - 🦠 [COVID-19 Data Analysis](link-to-repo) – Exploratory analysis and visualization of COVID-19 trends, highlighting key insights with data storytelling.  
 
