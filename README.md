@@ -9,9 +9,10 @@ Currently seeking opportunities in Data Science / Machine Learning.
 ## 🔧 Skills
 - Programming: Python, R, SQL
 - Data Science: pandas, NumPy, scikit-learn, Excel, NLP
-- Deep Learning: TensorFlow, scikit-learn
-- Visualization: Matplotlib, Seaborn, Plotly, Tableau
-- Tools: Git, Jupyter, Excel, Tableau
+- Deep Learning: Pytorch, scikit-learn
+- AI Engineering: Hugging Face
+- Visualization: Matplotlib, Seaborn, Plotly
+- Tools: Git, Jupyter, Excel
 
 ---
 
