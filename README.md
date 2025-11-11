@@ -20,12 +20,13 @@ Currently seeking opportunities in Data Science / Machine Learning.
 
 - 🧠 [Hate Speech Detection - RNN](https://github.com/Blu-LeBlanc/RNN_Hate_Speech) – Built and evaluated CNN/LSTM models to perform binary classification on social media posts; achieved hate speech detection model with 90% success.  
 - 📊 [E-Commerce Clustering Unsupervised Learning](https://github.com/Blu-LeBlanc/E-commerce_Clustering_Analysis) – Full ML pipeline: data wrangling, feature engineering, model selection, and performance evaluation.
-- 📊 [OpenAI-Organize-Medical-Transcriptions](https://github.com/Blu-LeBlanc/OpenAI-Organize-Medical-Transcriptions) - Utilizing OpenAI API to organize medical transcriptions and generate recommended treatments from ICD codes.
+- 🔮 [OpenAI Organize Medical Transcriptions](https://github.com/Blu-LeBlanc/OpenAI-Organize-Medical-Transcriptions) - Utilizing OpenAI API to organize medical transcriptions and generate recommended treatments from ICD codes.
+- 🤖 [Car Reviews LLMs](https://github.com/Blu-LeBlanc/Car-Reviews_LLMs) - Practicing implementing Hugging Face Transformers to perform basic NLP tasks.
 - 🦠 [COVID-19 Data Analysis](link-to-repo) – Exploratory analysis and visualization of COVID-19 trends, highlighting key insights with data storytelling.  
 
 ---
 
-- 🔭 I’m currently working on NBA MVP Analysis in R
+- 🔭 I’m currently working on Text Classification determining if text is AI generated or not.
 - 📫 I’m currently completing a Master of Science in Data Science
 
 ---
