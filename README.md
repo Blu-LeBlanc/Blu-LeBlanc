@@ -22,12 +22,12 @@ Currently seeking opportunities in Data Science / Machine Learning.
 - 📊 [E-Commerce Clustering Unsupervised Learning](https://github.com/Blu-LeBlanc/E-commerce_Clustering_Analysis) – Full ML pipeline: data wrangling, feature engineering, model selection, and performance evaluation.
 - 🔮 [OpenAI Organize Medical Transcriptions](https://github.com/Blu-LeBlanc/OpenAI-Organize-Medical-Transcriptions) - Utilizing OpenAI API to organize medical transcriptions and generate recommended treatments from ICD codes.
 - 🤖 [NBA Dashboard](https://github.com/Blu-LeBlanc/Car-Reviews_LLMs) - Created PowerBI Dashboard to view NBA MVP Candidates. Used R to analyze NBA player data and create MVP score metric. 
-- 🦠 [COVID-19 Data Analysis](link-to-repo) – Exploratory analysis and visualization of COVID-19 trends, highlighting key insights with data storytelling.  
+- 🏴‍☠️ [Wiki2Logic-Parsing-One-Piece-Text](https://github.com/Blu-LeBlanc/Wiki2Logic-Parsing-One-Piece-Text) – NLP Data Mining Project extracting logic statements from Wikipedia and create knowledge graph on One Piece.  
 
 ---
 
 - 🔭 I’m currently working on Text Classification determining if text is AI generated or not.
-- 📫 I’m currently completing a Master of Science in Data Science
+- 🍎 I’m currently completing a Master of Science in Data Science
 
 ---
 
